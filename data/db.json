@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": "125967837248936",
+      "name": "This is weird",
+      "display_name": "Sillyness",
+      "description": "Display"
+    }
+  ],
+  "products": [
+    {
+      "id": "098942378534542",
+      "name": "A New Name",
+      "category": "Something Really Cool",
+      "display_name": "Really Awesome Stuff",
+      "description": "Awesome Display Text"
+    }
+  ]
+}
